@@ -21,5 +21,5 @@
 	
 	<!-- give access to all domains in the outside world -->
 	<access origin="*" />
-
+<plugin name="cordova-plugin-whitelist" version="1"/>
 </widget>
